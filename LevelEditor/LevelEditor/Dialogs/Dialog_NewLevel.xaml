@@ -1,0 +1,36 @@
+﻿<Window x:Class="LevelEditor.Dialogs.Dialog_NewLevel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LevelEditor.Dialogs"
+        mc:Ignorable="d"
+        Title="Dialog_NewLevel"
+        MinHeight="220" Height="220" MaxHeight="220"
+        MinWidth="300" Width="300" MaxWidth="300"
+        Background="DarkCyan"
+        ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="24"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="24"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="24"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Grid.Column="0" Margin="3" x:Name="Name" Text="Name:"/>
+        <TextBox x:Name="TextBlock_Name" Grid.Row="1" Grid.Column="0" Margin="3"/>
+        <TextBlock Grid.Row="2" Grid.Column="0" Margin="3" Text="X Dimensions:"/>
+        <TextBox x:Name="TextBlock_DimensionX" Grid.Row="3" Grid.Column="0" Margin="3"/>
+        <TextBlock Grid.Row="4" Grid.Column="0" Margin="3" Text="Y Dimensions:"/>
+        <TextBox x:Name="TextBlock_DimensionY" Grid.Row="5" Grid.Column="0" Margin="3"/>
+        <Button x:Name="Button_Cancel" Grid.Row="6" Grid.Column="0" Margin="5" Content="Cancel" Click="Button_Cancel_Click"/>
+        <Button x:Name="Button_Create" Grid.Row="6" Grid.Column="1" Margin="5" Content="Create" Click="Button_Create_Click"/>
+    </Grid>
+</Window>

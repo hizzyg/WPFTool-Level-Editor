@@ -1,0 +1,19 @@
+﻿<Window x:Class="LevelEditor.Dialogs.Dialog_About"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LevelEditor.Dialogs"
+        mc:Ignorable="d"
+        Title="Dialog_About" Height="200" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="60"/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0">
+            Made by GPD 917
+        </TextBlock>
+        <Button x:Name="Button_Okay" Grid.Row="1" Margin="10" Content="Okay" Click="Button_Okay_Click"/>
+    </Grid>
+</Window>

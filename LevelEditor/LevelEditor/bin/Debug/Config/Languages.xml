@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Dict>
+    <LanguageEntry ID="#MenuItem_File">
+      <Meanings Entry_German="Datei" Entry_English="File" Entry_Turkish="Dosya" />
+    </LanguageEntry>
+    <LanguageEntry ID="#MenuItem_Help">
+      <Meanings Entry_German="Hilfe" Entry_English="Help" Entry_Turkish="Yardım"/>
+    </LanguageEntry>
+    <LanguageEntry ID="#MenuItem_NewLevel">
+      <Meanings Entry_German="Neues Level..." Entry_English="New Level..." Entry_Turkish="Yeni Bölüm..."/>
+    </LanguageEntry>
+    <LanguageEntry ID="#MenuItem_LoadLevel">
+      <Meanings Entry_German="Level laden.." Entry_English="Load level.." Entry_Turkish="Bölüm yükleme.."/>
+    </LanguageEntry>
+    <LanguageEntry ID="#MenuItem_SaveLevel">
+      <Meanings Entry_German="Speichern" Entry_English="Save" Entry_Turkish="Kaydet" />
+    </LanguageEntry>
+    <LanguageEntry ID="#MenuItem_SaveLevelAs">
+      <Meanings Entry_German="Sichern als.." Entry_English="Save as.." Entry_Turkish="... olarak kaydet"/>
+    </LanguageEntry>
+    <LanguageEntry ID="#MenuItem_RecentLevels">
+      <Meanings Entry_German="Letztes Level" Entry_English="Recent Level" Entry_Turkish="Son Bölüm"/>
+    </LanguageEntry>
+    <LanguageEntry ID="#MenuItem_Quit">
+      <Meanings Entry_German="Verlassen" Entry_English="Quit" Entry_Turkish="Çık"/>
+    </LanguageEntry>
+    <LanguageEntry ID="#MenuItem_Options">
+      <Meanings Entry_German="Option" Entry_English="Options" Entry_Turkish="Ayarlar"/>
+    </LanguageEntry>
+    <LanguageEntry ID="#MenuItem_Help_Lower">
+      <Meanings Entry_German="Hilfe.." Entry_English="Help.." Entry_Turkish="Yardım.."/>
+    </LanguageEntry>
+    <LanguageEntry ID="#MenuItem_About">
+      <Meanings Entry_German="Über.." Entry_English="About" Entry_Turkish="Hakkında.."/>
+    </LanguageEntry>
+    <LanguageEntry ID="#Grid_Viewport">
+      <Meanings Entry_German="Importiere Textur.." Entry_English="Import Texture..." Entry_Turkish="Doku İçe Aktar.."/>
+    </LanguageEntry>
+    <LanguageEntry ID="#Grid_ViewportToolTip">
+      <Meanings Entry_German="Öffnet den Fenster für den Textur import" Entry_English="Opens the Texture Import Dialog" Entry_Turkish="Le Help"/>
+    </LanguageEntry>
+    <LanguageEntry ID="#ComboBox_LayerSelection">
+      <Meanings Entry_German="Die Schicht, worauf du derzeit arbeitest.." Entry_English="The Layer you are currently working on.." Entry_Turkish="Şuan üzerinde çalıştığınız katman.."/>
+    </LanguageEntry>
+    <LanguageEntry ID="#Inspector">
+      <Meanings Entry_German="Inspektor" Entry_English="Inspector" Entry_Turkish="Denetim"/>
+    </LanguageEntry>
+    <LanguageEntry ID="#Toolbar">
+      <Meanings Entry_German="Symbolleiste" Entry_English="Toolbar" Entry_Turkish="Araç Çubuğu"/>
+    </LanguageEntry>
+    <LanguageEntry ID="#Brush">
+      <Meanings Entry_German="Bürste" Entry_English="Brush" Entry_Turkish="Fırça"/>
+    </LanguageEntry>
+    <LanguageEntry ID="#Collision">
+      <Meanings Entry_German="Kollision" Entry_English="Collision" Entry_Turkish="Çarpışma"/>
+    </LanguageEntry>
+    <LanguageEntry ID="#Viewport">
+      <Meanings Entry_German="Ansichtsfenster" Entry_English="Viewport" Entry_Turkish="Görünüm"/>
+    </LanguageEntry>
+    <LanguageEntry ID="#Layer_Selection">
+      <Meanings Entry_German="Ebenenauswahl" Entry_English="Layer_Selection" Entry_Turkish="Katman Seçimi"/>
+    </LanguageEntry>
+    <LanguageEntry ID="#Layer1">
+      <Meanings Entry_German="Ebene 1" Entry_English="Layer 1" Entry_Turkish="1. Katman"/>
+    </LanguageEntry>
+    <LanguageEntry ID="#Layer2">
+      <Meanings Entry_German="Ebene 2" Entry_English="Layer 2" Entry_Turkish="2. Katman"/>
+    </LanguageEntry>
+    <LanguageEntry ID="#Layer3">
+      <Meanings Entry_German="Ebene 3" Entry_English="Layer 3" Entry_Turkish="3. Katman"/>
+    </LanguageEntry>
+    <LanguageEntry ID="#Layer4">
+      <Meanings Entry_German="Ebene 4" Entry_English="Layer 4" Entry_Turkish="4. Katman"/>
+    </LanguageEntry>
+    <LanguageEntry ID="#Layer5">
+      <Meanings Entry_German="Ebene 5" Entry_English="Layer 5" Entry_Turkish="5. Katman"/>
+    </LanguageEntry>
+    <LanguageEntry ID="#Coordinates">
+      <Meanings Entry_German="Koordinaten" Entry_English="Coordinates" Entry_Turkish="Koordinatlar"/>
+    </LanguageEntry>
+    <LanguageEntry ID="#Coordinates_Type">
+      <Meanings Entry_German="Art:" Entry_English="Type:" Entry_Turkish="Tip:"/>
+    </LanguageEntry>
+    <LanguageEntry ID="#Attributes">
+      <Meanings Entry_German="Attribute" Entry_English="Attributes" Entry_Turkish="Özellik"/>
+    </LanguageEntry>
+    <LanguageEntry ID="#Trigger_Action">
+      <Meanings Entry_German="Aktion auslösen" Entry_English="Trigger Action" Entry_Turkish="Tetikleyici Eylem"/>
+    </LanguageEntry>
+    <LanguageEntry ID="#Portal_Destination">
+      <Meanings Entry_German="Portalziel" Entry_English="Portal Destination" Entry_Turkish="Portal Hedefi"/>
+    </LanguageEntry>
+    <LanguageEntry ID="#NPC_ID">
+      <Meanings Entry_German="NPC ID:" Entry_English="NPC ID:" Entry_Turkish="NPC ID:"/>
+    </LanguageEntry>
+    <LanguageEntry ID="#Object_ID">
+      <Meanings Entry_German="Objekt ID:" Entry_English="Object ID:" Entry_Turkish="Nesne Kimliği:"/>
+    </LanguageEntry>
+    <LanguageEntry ID="#TextBox_Attributes_TriggerAction">
+      <Meanings Entry_German="Der Name der Aktion,die ausgelöst werden soll.." Entry_English="The Actions Name to be triggered.." Entry_Turkish="Tetklenecek olan Eylemlerin Adı.."/>
+    </LanguageEntry>
+    <LanguageEntry ID="#TextBox_Attributes_PortalDestination">
+      <Meanings Entry_German="Der Name der Zielebene" Entry_English="The Destination Level Name" Entry_Turkish="Hedef Seviye Adı"/>
+    </LanguageEntry>
+    <LanguageEntry ID="#TextBox_Attributes_NPCID">
+      <Meanings Entry_German="Die Identität des NPC, dass hier platziert werden soll.." Entry_English="The ID of the NPC to be placed here.." Entry_Turkish="Yerleştirilecek NPC'nin kimliği.."/>
+    </LanguageEntry>
+    <LanguageEntry ID="#TextBox_Attributes_ObjectID">
+      <Meanings Entry_German="Die Identität des Objekts, dass hier platziert werden soll.." Entry_English="The ID of the Object to be placed here.." Entry_Turkish="Buraya yerleştirilecek nesnenin kimliği.."/>
+    </LanguageEntry>
+    <LanguageEntry ID="#TexturePallet">
+      <Meanings Entry_German="Textur Palette" Entry_English="Textur Palett" Entry_Turkish="Doku Paleti"/>
+    </LanguageEntry>
+	<LanguageEntry ID="#SpriteCutter">
+      <Meanings Entry_German="Sprite Schneider" Entry_English="Sprite Cutter" Entry_Turkish="Sprite Kesici"/>
+    </LanguageEntry>
+  </Dict>
+</LanguageDictionary>

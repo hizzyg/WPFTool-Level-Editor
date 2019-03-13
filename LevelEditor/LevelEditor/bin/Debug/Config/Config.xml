@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LevelEditorConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WindowPositionX>0</WindowPositionX>
+  <WindowPositionY>0</WindowPositionY>
+  <WindowSizeWidth>1280</WindowSizeWidth>
+  <WindowSizeHeight>720</WindowSizeHeight>
+  <StartupLocation>CenterScreen</StartupLocation>
+  <WindowState>Normal</WindowState>
+  <Language>German</Language>
+  <RecentLevels>
+    <string>test.lvl</string>
+    <string>TestLevel.lvl</string>
+    <string>testtest.lvl</string>
+    <string>Untitled.lvl</string>
+    <string>tstlvl.lvl</string>
+  </RecentLevels>
+</LevelEditorConfig>
